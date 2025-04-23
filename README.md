@@ -1,1 +1,1 @@
-Genomic selection data analysis using GG-BLUP, RR-BLUP and Bayes-B models. Included in the Apple data files are plant breeding based examples and scripts, and in the SalmonGill are examples and scripts for animal breeding applications
+Genomic selection data analysis using GG-BLUP, RR-BLUP and Bayes-B models. Included in the Apple folder are plant breeding based examples and scripts, and in the SalmonGill folders are examples and scripts for animal breeding applications
